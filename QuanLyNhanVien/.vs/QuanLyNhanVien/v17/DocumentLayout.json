@@ -1,12 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tranh\\OneDrive\\Desktop\\QuanLyNhanVienFix\\QuanLyNhanVien\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46641A2B-D881-4B29-91FF-AE28BEBD47A4}|QuanLyNhanVien\\QuanLyNhanVien.csproj|c:\\users\\tranh\\onedrive\\desktop\\quanlynhanvienfix\\quanlynhanvien\\quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46641A2B-D881-4B29-91FF-AE28BEBD47A4}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 100,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tranh\\OneDrive\\Desktop\\QuanLyNhanVienFix\\QuanLyNhanVien\\QuanLyNhanVien\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\Form1.cs",
+              "ToolTip": "C:\\Users\\tranh\\OneDrive\\Desktop\\QuanLyNhanVienFix\\QuanLyNhanVien\\QuanLyNhanVien\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLyNhanVien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T16:39:26.813Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
