@@ -37,17 +37,6 @@ CREATE TABLE Employees (
 );
 GO
 
--- Bảng Lương
-CREATE TABLE Salaries (
-    salary_id INT PRIMARY KEY,
-    employee_id INT,
-    salary_amount DECIMAL(10, 2),
-    start_date DATE,
-    end_date DATE,
-    FOREIGN KEY (employee_id) REFERENCES Employees(employee_id)
-);
-GO
-
 CREATE TABLE Account (
     username VARCHAR(20),
     password NVARCHAR(30)
